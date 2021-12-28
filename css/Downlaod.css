@@ -1,0 +1,13 @@
+/*links download*/
+
+.link-secondary {
+  color: silver;
+  
+}
+
+.link-secondary:hover{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/*-----------------*/
